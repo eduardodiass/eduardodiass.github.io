@@ -6,6 +6,7 @@
     align-items: center;
     margin: 0 auto;
 
+
 }
 
 .logo a {
@@ -13,6 +14,7 @@
     font-weight: 600;
     text-decoration: none;
     color: #141414;
+
 }
 
 
@@ -36,6 +38,7 @@
         flex-direction: column;
         gap: 40px;
         padding: 20px;
+
     }
 
     .header a {
